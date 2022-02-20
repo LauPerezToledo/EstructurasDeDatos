@@ -10,10 +10,10 @@ Apuntes y algoritmos
 
 # ÁRBOLES
 ## Conceptos:
-	Hoja:  es un nodo que no tiene ningún hijo.
-	Hermanos: son los nodos que tienen el mismo nodo padre.
-	Camino: desde N1 hasta Nk, es una secuencia de nodos N1, N2, ….,Nk tal que ni es el padre de Ni+1, para 1 ≤ i < K.
-	La longitud del camino es el número de aristas, es decir k-1.
+	**Hoja**:  es un nodo que no tiene ningún hijo.
+	**Hermanos**: son los nodos que tienen el mismo nodo padre.
+	**Camino**: desde N1 hasta Nk, es una secuencia de nodos N1, N2, ….,Nk tal que ni es el padre de Ni+1, para 1 ≤ i < K.
+	La longitud del **camino** es el número de aristas, es decir k-1.
 	Existe un camino de longitud cero desde cada nodo a sí mismo.
 	Existe un único camino desde la raíz a cada nodo.
 	Profundidad: es la longitud del único camino desde la raíz hasta un nodo.
