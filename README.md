@@ -27,5 +27,5 @@ Apuntes y algoritmos
 
 # ÁRBOL BINARIO
 Es una colección de nodos, tal que: <br>
-•	Puede estar vacía. <br>
-•	Puede estar formada por un nodo distinguido R, llamado raíz y dos sub-árboles T1 y T2, donde la raíz de cada subárbol Ti  esta conectado a R por medio de una arista.
+	•	Puede estar vacía. <br>
+	•	Puede estar formada por un nodo distinguido R, llamado raíz y dos sub-árboles T1 y T2, donde la raíz de cada subárbol Ti  esta conectado a R por medio de una arista.
