@@ -26,6 +26,6 @@ Apuntes y algoritmos
     > Ancestro/Descendiente: si existe un camino desde n1 a n2, se dice que n1 es ancestro de n2 y este descendiente de n1.
 
 # ÁRBOL BINARIO
-Es una colección de nodos, tal que:
-•	Puede estar vacía.
+Es una colección de nodos, tal que: <br>
+•	Puede estar vacía. <br>
 •	Puede estar formada por un nodo distinguido R, llamado raíz y dos sub-árboles T1 y T2, donde la raíz de cada subárbol Ti  esta conectado a R por medio de una arista.
