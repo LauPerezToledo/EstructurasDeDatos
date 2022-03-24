@@ -31,10 +31,22 @@ Es una colección de nodos, tal que: <br>
 	•	Puede estar vacía. <br>
 	•	Puede estar formada por un nodo distinguido R, llamado raíz y dos sub-árboles T1 y T2, donde la raíz de cada subárbol Ti  esta conectado a R por medio de una arista. <br>
 	
-## Características
-	Cada nodo puede tener a lo sumo dos nodos hijos.
-	No hay relación entre la altura y la cantidad de nodos excepto si el árbol es lleno.
-#total de nodos = 2^(h+1)-1
-	Hay 2  tipos de recorridos
-	En profundidad
+## Características	
+	•Cada nodo puede tener a lo sumo dos nodos hijos.
+	•No hay relación entre la altura y la cantidad de nodos excepto si el árbol es lleno.
+	#total de nodos = 2^(h+1)-1
+	•Hay 2  tipos de recorridos
+	>En profundidad
+	>Por niveles
+
+# ÁRBOL BINARIO DE BÚSQUEDA (ABB)
+## Definición
+Es una colección de nodos contenido en claves que debe cumplir con una propiedad estructural y una de  orden.
+	La propiedad estructural: es un árbol binario.
+	La propiedad de orden: para cada nodo N del árbol se cumple que todos los nodos ubicados en el subárbol izquierdo contienen claves menores  que la clave del nodo N y los nodos ubicados en el subárbol derecho contienen claves mayores  que la clave del nodo N.
+
+# Generalizando estructuras
+	Los tipos genéricos le permiten al programador abstraerse de los tipos.
+	Usando tipos genéricos  es posible definir estructuras donde la especificación del tipo de objeto a guardar se posterga hasta el momento de la instanciación.
+	Para especificar el uso de genéricos, se utiliza <tipo>.
 
